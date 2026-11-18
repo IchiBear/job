@@ -1,0 +1,5 @@
+name = "discord-http-bot"
+main = "src/index.js"
+compatibility_date = "2026-11-18"
+
+# Add your own Cloudflare account settings only if Wrangler asks for them.

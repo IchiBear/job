@@ -1,0 +1,4 @@
+DISCORD_PUBLIC_KEY=put_your_discord_application_public_key_here
+DISCORD_BOT_TOKEN=put_your_new_bot_token_here
+DISCORD_APP_ID=put_your_application_id_here
+REGISTER_SECRET=make_a_long_random_secret_here
